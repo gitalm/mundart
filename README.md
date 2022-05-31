@@ -4,4 +4,4 @@ Auf den folgenden themenbezogenen Pfaden kann man den ursprünglichen Dialekt an
 
 ## Willkommen auf Hochdeutsch
 
-![mundART Willommen](https://github.com/gitalm/mundart/blob/main/mundart_1.mp3)
+![mundART Willommen](mundart_1.mp3)
