@@ -4,10 +4,16 @@ Auf den folgenden themenbezogenen Pfaden kann man den ursprünglichen Dialekt an
 
 ## Willkommen auf Hochdeutsch
 
-https://user-images.githubusercontent.com/7422149/171218840-6ec2e211-5a1d-4973-9f80-7f09aac983c2.mp4
+
+
+https://user-images.githubusercontent.com/7422149/171220389-929f64f9-6221-4d51-a4c4-7edd44a5e99e.mp4
+
 
 
 ## Willkommen auf Schwäbisch
 
-https://user-images.githubusercontent.com/7422149/171218920-85c43712-0459-4e00-a241-fccddbc5ecbc.mp4
+
+
+
+https://user-images.githubusercontent.com/7422149/171220411-901cc46d-0b77-4b55-85ef-658335ea35f8.mp4
 
