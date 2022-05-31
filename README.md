@@ -4,4 +4,9 @@ Auf den folgenden themenbezogenen Pfaden kann man den ursprünglichen Dialekt an
 
 ## Willkommen auf Hochdeutsch
 
-https://github.com/gitalm/mundart/raw/main/mundart_1.mp3
+![mundART](https://github.com/gitalm/mundart/raw/main/mundart_1.mp4)
+
+## Willkommen auf Schwäbisch
+
+
+https://github.com/gitalm/mundart/raw/main/mundart_2.mp4
